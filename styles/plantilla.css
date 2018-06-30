@@ -1,0 +1,172 @@
+#p1 {
+    font-size: 40px
+    
+}
+#p2 {
+    font-size: small
+}
+#p3 {
+    font-size: medium
+    
+}
+#p4 {
+    font-size: large
+    
+}
+#p5 {
+    font-size: xx-large
+    
+}
+#p6 {
+    font-size: xx-small
+    
+}
+#p7 {
+    font-size: 2%
+    
+}
+#p8 {
+    font-size: 20%
+    
+}
+#p9 {
+    font-size: 80%
+
+}
+#p10 {
+    font-size: 200%
+    
+}
+#p11{
+    font-size: 300%
+
+}
+
+.titulo{
+    color: purple;     
+    background-color: aqua;
+    font-weight: bold 
+}
+
+.linea1{
+    size: 5px;
+    width: 50%
+    
+}
+.linea2{
+    size: 25px;
+    width: 50px
+
+}
+.linea3{
+    width: 75%;
+    height: 10px;
+    background-color: rgb(0,0,255);
+    margin-left:0px; 
+
+}
+.linea4{
+    border-width: 10px;
+    width: 60%;
+    height: 50px;
+    color: rgb(0,255,0);
+    background-color: rgb(255, 0, 0);
+    margin-right: 0pt;
+}
+
+.letra{
+    font-weight: bold;
+    font-size: xx-large
+}
+
+#color1{
+    color: black;
+}
+#color2{
+    color: white;  
+}
+#color3{
+    color: red;
+}
+#color4{
+    color: lime;
+}
+#color5{
+    color: blue;
+}
+#color6{
+    color: yellow;
+}
+#color7{
+    color: fuchsia
+
+}
+
+table{
+    text-align: left;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+tr{
+    align-content: center;
+}
+
+span{
+    font-weight: bold;
+    font-size: +2;
+}
+
+.celda1{
+    vertical-align: top;
+    background-color: rgb(153,255,153)
+    
+}
+.celda2{
+    vertical-align: middle;
+    text-align: left;
+    background-color: rgb(102,255,255);
+}
+.celda3{
+    vertical-align: top;
+    text-align: center;
+    color: red
+}
+.celda4{
+    vertical-align: top;
+    text-align: center;
+}
+
+.celda6{
+    vertical-align: bottom;
+    text-align: right;
+    background-color: rgb(255,153,255)
+}
+body {
+    color: rgb(0,0,0);
+    background-color: rgb(255, 255,255);
+    background-image: url(../images/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center 0%;    
+}
+#tabla2{
+    text-align: left;
+    width: 50%;
+    background-color: rgb(255,255,153);
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+    border: 4;
+
+}
+.encabezado{
+    vertical-align: middle;
+    background-color: white;
+    text-align: center
+
+}
+.tabla{
+    vertical-align: middle;
+    text-align: center;
+}
